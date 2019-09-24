@@ -1,0 +1,14 @@
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\bin\Debug\netcoreapp2.2\BooksAndPublishers.deps.json
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\bin\Debug\netcoreapp2.2\BooksAndPublishers.runtimeconfig.json
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\bin\Debug\netcoreapp2.2\BooksAndPublishers.runtimeconfig.dev.json
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\bin\Debug\netcoreapp2.2\BooksAndPublishers.dll
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\obj\Debug\netcoreapp2.2\BooksAndPublishers.csprojAssemblyReference.cache
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\obj\Debug\netcoreapp2.2\BooksAndPublishers.csproj.CoreCompileInputs.cache
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\obj\Debug\netcoreapp2.2\BooksAndPublishers.AssemblyInfoInputs.cache
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\obj\Debug\netcoreapp2.2\BooksAndPublishers.AssemblyInfo.cs
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\bin\Debug\netcoreapp2.2\BooksAndPublishers.pdb
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\bin\Debug\netcoreapp2.2\Library.dal.dll
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\bin\Debug\netcoreapp2.2\Library.dal.pdb
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\obj\Debug\netcoreapp2.2\BooksAndPublishers.csproj.CopyComplete
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\obj\Debug\netcoreapp2.2\BooksAndPublishers.dll
+C:\Users\merimako\Documents\Projects\Library\BooksAndPublishers\obj\Debug\netcoreapp2.2\BooksAndPublishers.pdb

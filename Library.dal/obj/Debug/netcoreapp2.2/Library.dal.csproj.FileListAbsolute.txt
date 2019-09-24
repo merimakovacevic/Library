@@ -1,0 +1,11 @@
+C:\Users\merimako\Documents\Projects\Library\Library.dal\bin\Debug\netcoreapp2.2\Library.dal.deps.json
+C:\Users\merimako\Documents\Projects\Library\Library.dal\bin\Debug\netcoreapp2.2\Library.dal.dll
+C:\Users\merimako\Documents\Projects\Library\Library.dal\obj\Debug\netcoreapp2.2\Library.dal.csproj.CoreCompileInputs.cache
+C:\Users\merimako\Documents\Projects\Library\Library.dal\obj\Debug\netcoreapp2.2\Library.dal.AssemblyInfoInputs.cache
+C:\Users\merimako\Documents\Projects\Library\Library.dal\obj\Debug\netcoreapp2.2\Library.dal.AssemblyInfo.cs
+C:\Users\merimako\Documents\Projects\Library\Library.dal\bin\Debug\netcoreapp2.2\Library.dal.runtimeconfig.json
+C:\Users\merimako\Documents\Projects\Library\Library.dal\bin\Debug\netcoreapp2.2\Library.dal.runtimeconfig.dev.json
+C:\Users\merimako\Documents\Projects\Library\Library.dal\bin\Debug\netcoreapp2.2\Library.dal.pdb
+C:\Users\merimako\Documents\Projects\Library\Library.dal\obj\Debug\netcoreapp2.2\Library.dal.dll
+C:\Users\merimako\Documents\Projects\Library\Library.dal\obj\Debug\netcoreapp2.2\Library.dal.pdb
+C:\Users\merimako\Documents\Projects\Library\Library.dal\obj\Debug\netcoreapp2.2\Library.dal.csprojAssemblyReference.cache

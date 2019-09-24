@@ -1,0 +1,14 @@
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\bin\Debug\netcoreapp2.2\LibrarySeed.deps.json
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\bin\Debug\netcoreapp2.2\LibrarySeed.runtimeconfig.json
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\bin\Debug\netcoreapp2.2\LibrarySeed.runtimeconfig.dev.json
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\bin\Debug\netcoreapp2.2\LibrarySeed.dll
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\obj\Debug\netcoreapp2.2\LibrarySeed.csprojAssemblyReference.cache
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\obj\Debug\netcoreapp2.2\LibrarySeed.csproj.CoreCompileInputs.cache
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\obj\Debug\netcoreapp2.2\LibrarySeed.AssemblyInfoInputs.cache
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\obj\Debug\netcoreapp2.2\LibrarySeed.AssemblyInfo.cs
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\bin\Debug\netcoreapp2.2\LibrarySeed.pdb
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\bin\Debug\netcoreapp2.2\Library.dal.dll
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\bin\Debug\netcoreapp2.2\Library.dal.pdb
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\obj\Debug\netcoreapp2.2\LibrarySeed.csproj.CopyComplete
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\obj\Debug\netcoreapp2.2\LibrarySeed.dll
+C:\Users\merimako\Documents\Projects\Library\LibrarySeed\obj\Debug\netcoreapp2.2\LibrarySeed.pdb

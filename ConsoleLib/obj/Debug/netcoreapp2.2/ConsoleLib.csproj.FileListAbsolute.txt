@@ -1,0 +1,14 @@
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\bin\Debug\netcoreapp2.2\ConsoleLib.deps.json
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\bin\Debug\netcoreapp2.2\ConsoleLib.runtimeconfig.json
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\bin\Debug\netcoreapp2.2\ConsoleLib.runtimeconfig.dev.json
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\bin\Debug\netcoreapp2.2\ConsoleLib.dll
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\bin\Debug\netcoreapp2.2\ConsoleLib.pdb
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\obj\Debug\netcoreapp2.2\ConsoleLib.csprojAssemblyReference.cache
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\obj\Debug\netcoreapp2.2\ConsoleLib.csproj.CoreCompileInputs.cache
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\obj\Debug\netcoreapp2.2\ConsoleLib.AssemblyInfoInputs.cache
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\obj\Debug\netcoreapp2.2\ConsoleLib.AssemblyInfo.cs
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\obj\Debug\netcoreapp2.2\ConsoleLib.dll
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\obj\Debug\netcoreapp2.2\ConsoleLib.pdb
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\bin\Debug\netcoreapp2.2\Library.dal.dll
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\bin\Debug\netcoreapp2.2\Library.dal.pdb
+C:\Users\merimako\Documents\Projects\Library\ConsoleLib\obj\Debug\netcoreapp2.2\ConsoleLib.csproj.CopyComplete
