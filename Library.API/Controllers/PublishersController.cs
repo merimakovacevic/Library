@@ -21,6 +21,7 @@ namespace Library.API.Controllers
         public IActionResult Get() //ova metoda je direktno adresirana sa rute api/Publishers; ne mora se zvati get, moze i drugacije, prepoznat ce
         {
             return Ok(Unit.Books.Get().Include(x=>x.Publisher));
+            //return Ok(Unit.Publishers.Get().Select(x => Factory.Create(x)).ToList());
         }
 
         [Route("{id}")]
